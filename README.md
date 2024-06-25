@@ -6,8 +6,6 @@ You can submit a pull request or fork the repo, if you find any issues.
 # Getting Started
 Either build the Module by running `argon build`, or grab a copy of it from the Releases & put the module anywhere you'd like.
 
-Sure, here's the API section for your OpenLuauIDE module, formatted similarly to the Highlighter module's API section:
-
 ## API
 
 **Functions:**
